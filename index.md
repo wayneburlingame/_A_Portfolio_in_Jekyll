@@ -1,7 +1,7 @@
-### What is this? 
+## What is this? 
 Wayne Burlingames' Jekyll Template on GitHub Pages
 
-## About Jekyll Templates 
+### About Jekyll Templates 
 Here is the awesome thing about Jekyll Templates...
 You create your template, modify as needed...
 If you only modify let's say the README file, Github can rebuild the page for your site, or multiple pages.
@@ -11,7 +11,6 @@ Jekyll Templates can look very nice, and be complicated or very simple, and they
 ### Managing Site Pages
 You also do not have to go through the full steps of :
 - Bulleted
-
 1.Getting a domain
 2.Web Hosting 
 3.Building a full-feature website like a Wordpress site
