@@ -23,6 +23,7 @@ You also do not have to go through the full steps of :
 
 ### Simple
 Simple, Easy, So let's do it the easy way.
+If you use Visual Studio or similiar DEV tools you can nearly automatically pull the Jekyll page files, edit them then click Git Push option and you will see website changes within 1-2 minutes.
 
 You can use the [editor on GitHub](https://github.com/wayneburlingame/_A_Portfolio_in_Jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
