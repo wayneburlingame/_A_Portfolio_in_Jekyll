@@ -4,11 +4,11 @@
 You create your template, modify as needed...
 If you only modify let's say the README file, Github can rebuild the page for your site, or multiple pages.
 
-# Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
-# You also do not have to go through the full steps of getting a domain, Web Hosting, aWordpress site or other complications.
-# Security is decent because Github is actively taking care of the security.
+### Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
+### You also do not have to go through the full steps of getting a domain, Web Hosting, aWordpress site or other complications.
+### Security is decent because Github is actively taking care of the security.
 
-## Simple, Easy, So let's do it the easy way.
+###Simple, Easy, So let's do it the easy way.
 
 You can use the [editor on GitHub](https://github.com/wayneburlingame/_A_Portfolio_in_Jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
