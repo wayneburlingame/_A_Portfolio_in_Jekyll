@@ -1,18 +1,23 @@
-### Wayne Burlingames' Jekyll Template on GitHub Pages
+### What is this? 
+Wayne Burlingames' Jekyll Template on GitHub Pages
 
-## Here is the awesome thing about Jekyll Templates...
+## About Jeykll Templates 
+Here is the awesome thing about Jekyll Templates...
 You create your template, modify as needed...
 If you only modify let's say the README file, Github can rebuild the page for your site, or multiple pages.
 
-### Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
-### You also do not have to go through the full steps of :
+### Template Simplicity
+Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
+### Managing Site Pages
+You also do not have to go through the full steps of :
 1.Getting a domain.
 2.Web Hosting .
 3.Building a full-feature website like a Wordpress site. 
 4.Other complications.
 5.Security is decent because Github is actively taking care of the security.
 
-###Simple, Easy, So let's do it the easy way.
+### Simple
+Simple, Easy, So let's do it the easy way.
 
 You can use the [editor on GitHub](https://github.com/wayneburlingame/_A_Portfolio_in_Jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
