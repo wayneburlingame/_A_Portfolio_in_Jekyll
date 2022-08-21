@@ -1,10 +1,14 @@
 ## What is this? 
 Wayne Burlingames' Jekyll Template on GitHub Pages
-
+### What is Jekyll?
+Jekyll is one of many of a slew of templating systems.
+There are hundreds, possibly thousands of free templates.
+So, if you want to "Tinker" just grab and install a template and tweak and modify to your needs/desires.
+Jekyll web pages, in my opinion are best used when needing a solid, stable web page that does not need to change often. An example would be HowTo Docs or FAQ site.
 ### About Jekyll Templates 
 Here is the awesome thing about Jekyll Templates...
 You create your template, modify as needed...
-If you only modify let's say the README file, Github can rebuild the page for your site, or multiple pages.
+Github will run Jekyll and can rebuild the page for your site, or multiple pages.
 
 ### Template Simplicity
 Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
