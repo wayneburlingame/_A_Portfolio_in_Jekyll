@@ -5,8 +5,12 @@ You create your template, modify as needed...
 If you only modify let's say the README file, Github can rebuild the page for your site, or multiple pages.
 
 ### Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
-### You also do not have to go through the full steps of getting a domain, Web Hosting, aWordpress site or other complications.
-### Security is decent because Github is actively taking care of the security.
+### You also do not have to go through the full steps of :
+1.Getting a domain.
+2.Web Hosting .
+3.Building a full-feature website like a Wordpress site. 
+4.Other complications.
+5.Security is decent because Github is actively taking care of the security.
 
 ###Simple, Easy, So let's do it the easy way.
 
