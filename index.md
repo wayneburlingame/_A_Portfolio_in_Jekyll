@@ -10,12 +10,11 @@ If you only modify let's say the README file, Github can rebuild the page for yo
 Jekyll Templates can look very nice, and be complicated or very simple, and they look nice.
 ### Managing Site Pages
 You also do not have to go through the full steps of :
-- Bulleted
-1.Getting a domain
-2.Web Hosting 
-3.Building a full-feature website like a Wordpress site
-4.Other complications
-5.Security is decent because Github is actively taking care of the security
+- list 1.Getting a domain
+- list 2.Web Hosting 
+- list 3.Building a full-feature website like a Wordpress site
+- list 4.Other complications
+- list 5.Security is decent because Github is actively taking care of the security
 
 ### Simple
 Simple, Easy, So let's do it the easy way.
